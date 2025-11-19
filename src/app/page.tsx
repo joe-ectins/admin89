@@ -18,9 +18,7 @@ export default function Home() {
 			{/* START Your content goes here */}
 			<PageProtected>
 				<PageHeader title="Maake It Admin Site" icon={FaHome}>
-					<p>
-						Welcome to the internal Admin Site for managing all sorts of things
-					</p>
+					<p>🤗 to the internal Admin Site for managing all sorts of things</p>
 				</PageHeader>
 
 				{/* List all users */}
